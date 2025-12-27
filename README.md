@@ -38,3 +38,12 @@ Sie ersetzt komplexe Batch-Skripte und manuelle Konsolenaufrufe durch eine über
 - Nachts oder am Wochenende geplante Kopierjobs
 - Einheitliche Kopierprozesse auf mehreren Rechnern (per Import/Export)
 
+
+### Unterstütze das Büro-Kaffeekonto!
+
+Damit der Kaffee im Büro nie ausgeht, wäre eine kleine Spende super! 💰☕  
+Jeder Beitrag hilft, die Kaffeemaschine am Laufen zu halten, damit wir alle produktiv bleiben können!
+
+[**Spende für Kaffee**](https://www.paypal.com/donate/?business=ACU26RPTCA44S&no_recurring=0&item_name=Dieses+Projekt+und+der+Service+kann+nur+durch+eure+Spenden+finanziert+werden.&currency_code=EUR)
+
+Vielen Dank für deine Unterstützung! 🙌
