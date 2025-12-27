@@ -5,6 +5,10 @@ Sie ersetzt komplexe Batch-Skripte und manuelle Konsolenaufrufe durch eine über
 
 ---
 
+## Kontakt  
+Bei Fragen können Sie mich gerne per E-Mail erreichen:  
+📧 [steuerung@gmx.at](mailto:steuerung@gmx.at)
+
 ## ✨ Features
 
 ### 📁 Job-Vorlagen
